@@ -16,6 +16,13 @@ META-INF/
 *.war
 *.ear
 *.db
+*.nar
+*.zip
+*.tar.gz
+*.rar
+
+
+
   
 ######################
 # Windows
@@ -135,5 +142,17 @@ modules.xml
 
 # Sonarlint plugin
 .idea/sonarlint
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
 
 # End of https://www.gitignore.io/api/intellij
