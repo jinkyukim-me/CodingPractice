@@ -1,4 +1,4 @@
-package sec02;
+package variableandtype.sec02;
 
 public class byteExample {
     public static void main(String[] args) {
