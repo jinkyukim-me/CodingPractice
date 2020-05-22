@@ -3,7 +3,7 @@ package fieldex;
 public class CarExample {
     public static void main(String[] args) {
         //객체 생성
-        Car myCar = new Car();
+        Car myCar = new Car("bmw","320i", "blue");
 
         //필드값 읽기
         System.out.println("제작회사: " + myCar.company);
