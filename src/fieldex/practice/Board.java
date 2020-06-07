@@ -16,7 +16,7 @@ public class Board {
         this(title, content, "로그인한 회원아이디", "현재 컴퓨터 날짜", 0);
     }
 
-    Board(String title, String content, String writer) {
+    public Board(String title, String content, String writer) {
 //        this.title = title;
 //        this.content = content;
 //        this.writer = writer;
